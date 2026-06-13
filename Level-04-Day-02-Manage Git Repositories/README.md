@@ -1,4 +1,4 @@
-### ❤️ Level 04 - Day 02 - Manage Git Repositories
+# ❤️ Level 04 - Day 02 - Manage Git Repositories
 
 ---
 
