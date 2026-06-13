@@ -2,7 +2,7 @@
 
 ---
 
-## Step 1: Create the Repository in Gitea UI
+## 🧑‍💻 1: Create the Repository in Gitea UI
 
 1. Open your browser and click the **Gitea UI** button on your environment's top bar.
 2. Log in with the following credentials:
@@ -23,7 +23,7 @@
 
 ---
 
-## Step 2: Clone the Repository on the Storage Server
+## 🧑‍💻 2: Clone the Repository on the Storage Server
 
 1. Open your terminal and SSH into the storage server as `max`:
 ```bash
@@ -57,7 +57,7 @@ cd story_blog
 
 ---
 
-## Step 3: Add Existing Data & Push to `main`
+## 🧑‍💻 3: Add Existing Data & Push to `main`
 
 1. Copy all files from `/usr/security` into your repository folder:
 ```bash
@@ -91,7 +91,7 @@ git push origin main
 
 ---
 
-## Step 4: Create a New Branch
+## 🧑‍💻 4: Create a New Branch
 
 1. Create and switch to the new branch named `max_apps`:
 ```bash
@@ -103,7 +103,7 @@ git checkout -b max_apps
 
 ---
 
-## Step 5: Fix the Typo and Push to `max_apps`
+## 🧑‍💻 5: Fix the Typo and Push to `max_apps`
 
 1. Copy the target file from `/tmp/stories/` into your repository:
 ```bash
